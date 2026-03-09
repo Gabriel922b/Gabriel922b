@@ -15,5 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 https://github.com/alexandresanlim/Badges4-README.md-profile#-education-
-https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-https://www.instagram.com/gabriel_beckerm?igsh=ZTAwazJzM3Qyb3Nn&utm_source=qr
+
+
+ 
+[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabriel_beckerm?igsh=ZTAwazJzM3Qyb3Nn&utm_source=qr)
+
+
+
+
