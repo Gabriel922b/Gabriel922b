@@ -22,5 +22,4 @@ https://github.com/alexandresanlim/Badges4-README.md-profile#-education-
 
 [![](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/)
 
-
-https://www.facebook.com/share/1GNbRdjNBd/?mibextid=wwXIfr
+[![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1GNbRdjNBd/?mibextid=wwXIfr)
